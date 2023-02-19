@@ -1,6 +1,5 @@
 /**
  * this class represents the Yahtzee game. It holds the methods that calculate the scores of each possible outcome of the game
- * @author William Zhang 251215208
  *
  */
 
