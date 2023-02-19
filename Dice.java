@@ -1,6 +1,5 @@
 /**
  * this class represents a six-sided die. Each die has a random corresponding value
- * @author William Zhang 251215208
  *
  */
 
